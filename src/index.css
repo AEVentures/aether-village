@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap');
+:root{font-family:'DM Sans',sans-serif;color:#ebece5;background:#07120f;font-synthesis:none;text-rendering:optimizeLegibility}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:320px}button,input,select,textarea{font:inherit}a{color:inherit}::selection{background:#d8ff6a;color:#07120f}:focus-visible{outline:3px solid #d8ff6a;outline-offset:3px}

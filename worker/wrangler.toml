@@ -1,0 +1,12 @@
+name = "aether-village-applications"
+main = "src/index.ts"
+compatibility_date = "2026-09-14"
+
+[vars]
+ALLOWED_ORIGIN = "https://aeventures.github.io"
+NOTIFICATION_EMAIL = "michael@vims.com"
+
+[[d1_databases]]
+binding = "APPLICATIONS"
+database_name = "aether-village-applications"
+database_id = "CONFIGURE_AFTER_DATABASE_CREATION"

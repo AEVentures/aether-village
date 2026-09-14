@@ -1,0 +1,1 @@
+{"name":"aether-village-worker","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","test":"vitest run","deploy":"wrangler deploy"},"dependencies":{"zod":"4.6.4"},"devDependencies":{"@cloudflare/workers-types":"4.20260702.1","typescript":"6.0.3","vitest":"5.0.0","wrangler":"4.59.3"}}
